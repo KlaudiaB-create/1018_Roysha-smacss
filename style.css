@@ -29,6 +29,10 @@ img {
     margin-bottom: 40px;
 }
 
+.l-mb4_6 {
+    margin-bottom: 46px
+}
+
 .l-mb7 {
     margin-bottom: 70px
 }
@@ -39,6 +43,14 @@ img {
 
 .l-p6 {
     padding: 60px;
+}
+
+.l-p4 {
+    padding: 40px;
+}
+
+.l-p2_6 {
+    padding: 26px 40px;
 }
 
 .l-max-width {
@@ -146,6 +158,10 @@ img {
     background-color: #fff;
 }
 
+.card-border {
+    border: 1px solid #6C6C6F;
+}
+
 .card .btn {
     margin-top: 40px;
 }
@@ -167,6 +183,10 @@ img {
 
 .btn-info {
     background-color: #2DBE61;
+}
+
+.btn-orange {
+    background-color: #F87624;
 }
 
 .btn-outline {
